@@ -360,5 +360,22 @@ namespace Assignment1_Spring2020
 
 
     }
-}
+} // END OF PROGRAM
+
+
+
+
+/*
+
+Self - Reflection:
+
+ I have learnt about the various data types and how to use them.
+ I have  also learnt how to use loops, arrays and methods.
+This Assignment is really helpful in understanding the basics of C# Programming
+
+    */
+
+
+
+
 
